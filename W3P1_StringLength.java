@@ -8,6 +8,7 @@ public class W3P1_StringLength {
         Scanner scan = new Scanner (System.in);
         String str = scan.nextLine();
         System.out.println(str.length());
+        Systen.out.println("Hello Github");
     }
     
 }
